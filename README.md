@@ -2,9 +2,7 @@
 
 ## About Me
 I'm a freshman at SJTU with a keen interest in computer science and robotics! 🤖💻
-
 I've also been a tennis player for many years! 🎾
-
 I love skiing and have skied in Europe and New Zealand! ⛷️
 
 ## Skills
@@ -29,7 +27,7 @@ I love skiing and have skied in Europe and New Zealand! ⛷️
 - **[Math Learning Plan](https://github.com/wzzzzq/math_learning)**: My learning plan for math studies. 📘
 
 ## Love
-- To the best girlfriend in the world, ddx_cs ❤️
+- To the best girlfriend in the world, [ddx_cs](https://github.com/ddx_cs) ❤️
 
 ## Contact
 - **Email**: [ChristianWang@sjtu.edu.cn](mailto:ChristianWang@sjtu.edu.cn) 📧

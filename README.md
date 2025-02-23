@@ -27,7 +27,7 @@ I love skiing and have skied in Europe and New Zealand! ⛷️
 - **[Math Learning Plan](https://github.com/wzzzzq/math_learning)**: My learning plan for math studies. 📘
 
 ## Love
-- To the best girlfriend in the world, [ddx_cs](https://github.com/ddx_cs) ❤️
+- To the best girlfriend in the world, [ddx-cs](https://github.com/ddx-cs) ❤️
 
 ## Contact
 - **Email**: [ChristianWang@sjtu.edu.cn](mailto:ChristianWang@sjtu.edu.cn) 📧

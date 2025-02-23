@@ -2,7 +2,9 @@
 
 ## About Me
 I'm a freshman at SJTU with a keen interest in computer science and robotics! 🤖💻
+
 I've also been a tennis player for many years! 🎾
+
 I love skiing and have skied in Europe and New Zealand! ⛷️
 
 ## Skills

@@ -1,5 +1,8 @@
 # Hi there, I'm wzzzzq 👋
 
+## Love
+- To the best girlfriend in the world, [ddx-cs](https://github.com/ddx-cs) ❤️
+  
 ## About Me
 I'm a freshman at SJTU with a keen interest in computer science and robotics! 🤖💻
 
@@ -28,8 +31,6 @@ I love skiing and have skied in Europe and New Zealand! ⛷️
 ## Learning Plan
 - **[Math Learning Plan](https://github.com/wzzzzq/math_learning)**: My learning plan for math studies. 📘
 
-## Love
-- To the best girlfriend in the world, [ddx-cs](https://github.com/ddx-cs) ❤️
 
 ## Contact
 - **Email**: [ChristianWang@sjtu.edu.cn](mailto:ChristianWang@sjtu.edu.cn) 📧
